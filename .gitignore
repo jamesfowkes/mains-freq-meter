@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+
+# Unnecessary KiCAD files
+*.bak
+
